@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Test\Test_Search\Test_Search\Source.cpp(18,43): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+D:\Test\Test_Search\Test_Search\Source.cpp(177,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Test_Search.vcxproj -> D:\Test\Test_Search\Debug\Test_Search.exe
